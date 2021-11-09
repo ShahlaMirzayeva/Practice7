@@ -1,0 +1,6 @@
+C:\Users\Code\Desktop\AzTu-101\Practise7\AzTuP01-Practice\bin\Debug\AzTuP01-Practice.exe
+C:\Users\Code\Desktop\AzTu-101\Practise7\AzTuP01-Practice\bin\Debug\AzTuP01-Practice.pdb
+C:\Users\Code\Desktop\AzTu-101\Practise7\AzTuP01-Practice\obj\Debug\AzTuP01-Practice.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\AzTu-101\Practise7\AzTuP01-Practice\obj\Debug\AzTuP01-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\AzTu-101\Practise7\AzTuP01-Practice\obj\Debug\AzTuP01-Practice.exe
+C:\Users\Code\Desktop\AzTu-101\Practise7\AzTuP01-Practice\obj\Debug\AzTuP01-Practice.pdb
